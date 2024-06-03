@@ -23,7 +23,7 @@ version = "0.16.21"
 # build.rs uses this to derive the prefix for FFI symbols and the file names
 # of the FFI libraries, so it must be a valid identifier prefix and a valid
 # filename prefix.
-links = "ring_core_0_17_8"
+links = "ring_core_0_16_21"
 
 include = [
     "LICENSE",
